@@ -6,6 +6,7 @@ import './Weather.css'
 
 
 const API_KEY = "a50a6afe21e9ee3a61dd1ecf4800ebb5";
+
 function Weather() {
 
     const {logout} = useAuth0()
